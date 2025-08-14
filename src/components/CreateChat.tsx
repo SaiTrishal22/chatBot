@@ -272,3 +272,5 @@ export default function CreateChat() {
     </div>
   );
 }
+
+console.log("hello autoRag");
